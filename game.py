@@ -51,8 +51,8 @@ questions = [
     },
 ]
 
-
 def ask_question(question, options, answer):
+    # i looked up how to do this but I get that its assigning the letters to a position
     print(question)
     print("A.", options[0])
     print("B.", options[1])
@@ -69,7 +69,7 @@ def ask_question(question, options, answer):
         return False
 
 
-
+# i looked up how to do the setup for this
 def calculate_score(total_questions, num_correct):
     if total_questions == 0:
         return 0
@@ -84,7 +84,7 @@ def main():
 
     print(f"Good luck, {user_name}!")
     num_correct = 0
-
+    # i looked up how to do everything below this point
     for item in questions:
         if ask_question(item["question"], item["options"], item["answer"]):
             num_correct += 1
