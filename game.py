@@ -61,7 +61,7 @@ def ask_question(question, options, answer):
 
     choice = input("Your answer: ")
 
-    if choice == answer:
+    if choice == answer or choice == answer.lower():
         print("Correct")
         return True
     else:
