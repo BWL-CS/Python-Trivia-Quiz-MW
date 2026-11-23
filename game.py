@@ -41,7 +41,7 @@ questions = [
     },
     {
         "question": "Waht year was Airbus started?",
-        "options": ["Maddox", "Jerry", "Kat", "The Blacksmith"],
+        "options": ["1970", "1980", "1995", "2000"],
         "answer": "A",
     },
     {
