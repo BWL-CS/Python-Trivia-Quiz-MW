@@ -45,7 +45,7 @@ questions = [
         "answer": "A",
     },
     {
-        "question": "What do pets provide to players?",
+        "question": "what year was Airbus started?",
         "options": ["1960", "1970", "1980", "1990"],
         "answer": "B",
     },
