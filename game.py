@@ -40,13 +40,13 @@ questions = [
         "answer": "A",
     },
     {
-        "question": "What year was Airbus started?",
+        "question": "Waht year was Airbus started?",
         "options": ["1970", "1980", "1995", "2000"],
         "answer": "A",
     },
     {
-        "question": "what year was Airbus started?",
-        "options": ["1960", "1970", "1980", "1990"],
+        "question": "What is the takeoff speed of a Cessna 172?",
+        "options": ["60", "55", "63", "74"],
         "answer": "B",
     },
 ]
