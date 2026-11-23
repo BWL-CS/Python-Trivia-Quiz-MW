@@ -40,7 +40,7 @@ questions = [
         "answer": "A",
     },
     {
-        "question": "Waht year was Airbus started?",
+        "question": "What year was Airbus started?",
         "options": ["1970", "1980", "1995", "2000"],
         "answer": "A",
     },
